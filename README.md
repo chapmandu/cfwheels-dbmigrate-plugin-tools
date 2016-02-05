@@ -1,6 +1,6 @@
 A bunch of helper controller for use with the CFWheels DBMigrate plugin.
 
-To get this up and running, You'll need to install the CFWheels DBMigrate Plugin, the `/models/DBMigrateVersion.cfc` model file and the `/controllers/DBMigrate.cfc` controller from https://github.com/chapmandu/cfwheels-dbmigrate-plugin-tools.
+To get this up and running, You'll need to install the CFWheels DBMigrate Plugin, and these `/models/DBMigrateVersion.cfc` model and `/controllers/DBMigrate.cfc` controller.
 
 Once these files are in place, you can call the following URLs and see the JSON they return:
 
